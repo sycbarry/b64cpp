@@ -1,0 +1,5 @@
+/Users/sebastianbarry/.softwareprojects/b64cpp/build/CMakeFiles/b64cpp.dir
+/Users/sebastianbarry/.softwareprojects/b64cpp/build/CMakeFiles/test_b64cpp.dir
+/Users/sebastianbarry/.softwareprojects/b64cpp/build/CMakeFiles/test.dir
+/Users/sebastianbarry/.softwareprojects/b64cpp/build/CMakeFiles/edit_cache.dir
+/Users/sebastianbarry/.softwareprojects/b64cpp/build/CMakeFiles/rebuild_cache.dir
