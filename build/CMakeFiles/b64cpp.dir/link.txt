@@ -1,2 +1,0 @@
-/usr/bin/ar qc libb64cpp.a CMakeFiles/b64cpp.dir/src/b64cpp.cpp.o
-/usr/bin/ranlib libb64cpp.a

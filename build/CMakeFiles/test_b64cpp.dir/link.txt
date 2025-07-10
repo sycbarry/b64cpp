@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_b64cpp.dir/tests/test_b64cpp.cpp.o -o test_b64cpp  libb64cpp.a
